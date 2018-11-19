@@ -1,0 +1,13 @@
+span {
+    cursor:pointer;
+    /* width: 500px !important; */
+    white-space: nowrap;
+  }
+  th {
+    cursor:pointer;
+    /* width: 500px !important; */
+    white-space: nowrap;
+  }
+  tr {
+    white-space: nowrap;
+  }
